@@ -561,3 +561,4 @@ tanetID=$(az account show --query tenantId --output tsv)
 echo " your tanent id id $tanetID \n"
 
 
+###=
